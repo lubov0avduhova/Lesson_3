@@ -26,5 +26,11 @@
 *	**git pull** – получение изменений и слияние с локальной версией
 *	**git push** – отправляет локальную версию репозитория на внешний
 
+## Подключить github к локальному репозиторию
+1. git remote add origin _url_
+2. git branch -M main
+3. git push -u origin main
+
+
 ## Заключение
 Чтобы получить еще какую-нибудь информацию, то перейди сюда - https://ru.markdown.net.br/bazovyy-sintaksis/
